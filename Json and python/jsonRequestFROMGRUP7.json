@@ -1,0 +1,8 @@
+{ 
+	"deployment":"deploy", 
+	"targetPswd":"gtu2017A",  
+	"destination":"3",
+	"origin":"7",
+	"repoURL":"https://github.com/ferdisonmez/deploy.git",
+	"projectName":"project99"
+}
